@@ -1,0 +1,21 @@
+# Private WhatsApp exports and generated corpora
+*.zip
+*.txt
+!requirements.txt
+*.xml
+*.vert
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# OS / IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
